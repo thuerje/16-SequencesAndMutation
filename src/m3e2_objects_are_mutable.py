@@ -20,7 +20,7 @@ import rosegraphics as rg
 
 def main():
     # ------------------------------------------------------------------
-    # 1. Constructs a zg.Point, assigning its instance variables values.
+    # 1. Constructs a rg.Point, assigning its instance variables values.
     # 2. Assigns an instance variable in the object a new value,
     #      thus MUTATING the OBJECT (because one of
     #      its INSTANCE VARIABLES was ASSIGNED a new value).
