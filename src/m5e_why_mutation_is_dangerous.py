@@ -31,7 +31,7 @@ import random
 
 
 def main():
-    one_example_of_danger()
+    # one_example_of_danger()
     another_example_of_danger()
 
 
